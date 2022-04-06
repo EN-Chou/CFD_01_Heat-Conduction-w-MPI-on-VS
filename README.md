@@ -1,4 +1,4 @@
-# CFD_01_Heat-Convection
+# CFD_01_Heat-Conduction
 (Note: There's a naming error, this task is heat conduction instead of heat convection)  
 
 Instructions:
