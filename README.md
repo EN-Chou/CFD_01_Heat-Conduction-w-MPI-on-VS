@@ -1,5 +1,5 @@
 # CFD_01_Heat-Convection
-
+(Note: There's a naming error, this task is heat conduction instead of heat convection)
 Instructions:  
 1. Installation and Configuration of MPI in Visual Studio:  
   a) Download: https://www.microsoft.com/en-us/download/details.aspx?id=100593 (perhaps)  
