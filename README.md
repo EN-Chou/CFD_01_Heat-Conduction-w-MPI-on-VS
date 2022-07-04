@@ -1,5 +1,5 @@
-# CFD_01_Heat-Conduction
-(Note: There's a naming error, this task is heat conduction instead of heat convection)  
+# CFD_01_Heat-Conduction w/ MPI on VS
+(Naming error: this task is heat conduction instead of heat convection)  
 
 Instructions:
 1. Installation and Configuration of MPI in Visual Studio:  
