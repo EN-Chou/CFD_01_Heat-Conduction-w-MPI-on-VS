@@ -1,5 +1,4 @@
-# CFD_01_Heat-Conduction w/ MPI on VS
-Copyright (c) 2021 Yi-En Chou   
+# CFD_01_Heat-Conduction w/ MPI on VS 
 (Naming error: this task is heat conduction instead of heat convection)  
 
 1. Installation and Configuration of MPI in Visual Studio:  
